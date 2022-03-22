@@ -1,4 +1,4 @@
-#Documentație ChillView
+Documentație ChillView
 
 Salut, mă numesc Arthur, iar acesta este unul din proiectele mele personale: "ChillView".
 ChillView este un joc 3D creat in Unity, gândit să îmbine cat mai bine culorile și muzica, pentru o experiență cât mai relaxantă și plăcută atât vizual cât și auditiv. 
