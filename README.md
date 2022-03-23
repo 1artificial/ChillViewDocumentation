@@ -17,7 +17,7 @@ Unity este gratuit de descărcat, dar are și opțiuni premium, destinate pentru
 
 ChillView este destinat doar pentru sistemul de operare Windows, având nevoie de minim 4gb de memorie RAM, jocul poate fi rulat direct de pe CD.
 
-Scorul maxim care poate fi atins este de 10989, atunci se termină jocul si apare ultima scena.
+Scorul maxim care poate fi atins este de 10989, atunci se termină jocul si apare ultima scenă.
 
 O versiune puțin mai veche poate fi descărcată de pe itch.io(un marketplace pentru indie devolopers) : https://nore7ly.itch.io/c-h-i-ll-v-i-e-w.
 
